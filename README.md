@@ -33,9 +33,9 @@ Write the following functions:
 
 - `allWords` logs all the words.
 - `firstTenWords` logs the first ten words.
-- `nextTenWords`, logs the next 10 words.
-- `firstXWords`, logs from 0 to x words.
-- `subsetOfWords`,logs from x to y words.
+- `nextTenWords` logs the next 10 words.
+- `firstXWords` logs from 0 to x words.
+- `subsetOfWords` logs from x to y words.
 - `sortWords` logs all the words, sorted alphabetically.
 
 ### Begin building the wordle solver functions
